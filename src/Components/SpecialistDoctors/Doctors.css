@@ -1,0 +1,9 @@
+h1 {
+  font-family: "Inter", sans-serif;
+}
+
+.sectionHeading {
+  text-align: center;
+  padding: 1rem;
+  color: #000;
+}

@@ -1,0 +1,12 @@
+.App {
+}
+
+.navbar-dark-green {
+  background-color: #0d0221 !important;
+}
+.my-card {
+  background-color: #00abe7;
+  border: 0 !important;
+  padding: 25px 0;
+  border-radius: 10px;
+}

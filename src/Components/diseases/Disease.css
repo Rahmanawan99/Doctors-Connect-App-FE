@@ -1,0 +1,12 @@
+body {
+  background: #0ca4a5;
+}
+h1 {
+  color: #ffff;
+}
+button {
+  background-color: #63b4b8 !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}

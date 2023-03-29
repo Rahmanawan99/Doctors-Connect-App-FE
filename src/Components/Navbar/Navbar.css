@@ -1,0 +1,21 @@
+nav {
+  background-color: aliceblue;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-start;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+nav ul li {
+  max-width: 190px;
+  margin: 0 1rem;
+  padding: 1rem;
+}
+
+nav ul li a {
+  color: #000;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,42 @@
+.head-sec {
+  background-color: #0a1045;
+  color: #ffffff;
+  font-family: Pacifico, sans-serif;
+  font-size: 34px !important;
+  text-align: center;
+  padding: 10px;
+}
+.para {
+  font-size: 17px !important;
+  font-family: Courgette, sans-serif;
+  text-align: center;
+}
+.mid-sec {
+  background-color: rgb(240, 240, 240);
+  color: white;
+}
+.frm {
+  background-color: rgb(240, 240, 240);
+}
+.btn {
+  background-color: rgb(0, 203, 130);
+  color: rgb(240, 240, 240);
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  width: 88.5% !important;
+}
+label {
+  color: rgb(153, 153, 153);
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+}
+input {
+  border: none;
+  outline: none;
+  width: 85.5%;
+}
+select {
+  border: none;
+  outline: none;
+  width: 85.5%;
+}
